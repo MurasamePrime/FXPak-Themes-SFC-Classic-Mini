@@ -38,3 +38,7 @@ Each theme folder contains:
 - Detail Dark  
   ![Detail Dark Preview](SFC_Classic_Mini_Detail_Dark.png)
 
+Disclaimer:
+This project is a fan-made theme pack.  
+It is not affiliated with or endorsed by Nintendo.  
+All Nintendo trademarks and logos are property of their respective owners.  
