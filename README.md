@@ -17,10 +17,15 @@ Each theme folder contains:
 - `m3nu.bin` – theme file for FXPak Pro and newer SD2SNES firmware  
 - `preview.png` – screenshot preview of the theme  
 
-## Installationenglish
+## Installation
 1. Backup your current `menu.bin` from the root of your SD card.  
 2. Copy the new `menu.bin` (or `m3nu.bin`, depending on your firmware) from the theme folder into the SD card root.  
 3. Start your FXPak Pro and the new theme will load.  
+
+## Compatibility
+These themes were created and tested with FXPak Pro / SD2SNES firmware v1.11.0.  
+They may still work with older versions, but color handling and menu rendering could differ.
+
 
 **Important:** Only keep one of the files (`menu.bin` or `m3nu.bin`) on the SD card at a time. Having both will cause conflicts.  
 
