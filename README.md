@@ -25,7 +25,6 @@ Each theme folder contains:
 **Important:** Only keep one of the files (`menu.bin` or `m3nu.bin`) on the SD card at a time. Having both will cause conflicts.  
 
 ## Preview
-(Insert screenshots here – one per variant, for example:)
 
 - Plain  
   ![Plain Preview](SFC_Classic_Mini_Plain.png)
